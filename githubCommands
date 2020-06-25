@@ -1,0 +1,16 @@
+
+  git init -initialize git
+  git log -see logged changes
+  git diff (file) see differences in file
+  
+  git remote add origin (https://*******) -o add remote
+  git push -u origin master -ushes local repository to remote repository, remote origin, branch master
+  
+  
+  commiting
+  
+  1. git status -Check where you are and if any files are unstaged.
+  2. git add (file name) or git add .  -add everything to staging area.
+  3. git commit -m"" - commit files from staging area and add a message.
+  
+  
